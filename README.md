@@ -146,7 +146,7 @@ Stack: Prometheus, Grafana, DefectDojo, Docker, Kubernetes
 
 | Platform | Link | Purpose |
 |----------|------|---------|
-| **LinkedIn** | [linkedin.com/in/sarthak-ivare](https://linkedin.com/in/sarthak-ivare) | Professional network |
+| **LinkedIn** | [linkedin.com/in/sarthak-ivare](https://linkedin.com/in/sarthak-ivare-94b25b3a3) | Professional network |
 | **Email** | ivaresarthak@gmail.com | Direct contact |
 
 ---
